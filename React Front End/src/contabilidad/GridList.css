@@ -1,0 +1,19 @@
+.ReactTable .rt-tbody .rt-td,
+.ReactTable .rt-tbody .rt-td:last-child,
+.ReactTable .rt-thead .rt-th,
+.ReactTable .rt-thead.-filters .rt-th,
+.ReactTable .rt-thead .rt-th:last-child, 
+.ReactTable .rt-thead .rt-td:last-child,
+.ReactTable .rt-tfoot .rt-td,
+.ReactTable .rt-tfoot .rt-td:last-child
+{
+  border-right: 1px solid rgba(0, 0, 0, 0.1);
+  
+}
+
+.ReactTable .rt-thead
+{
+
+background-color: white;
+font-weight: bold;
+}

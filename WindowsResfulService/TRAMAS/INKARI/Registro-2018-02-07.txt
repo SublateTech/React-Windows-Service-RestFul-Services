@@ -1,0 +1,296 @@
+07/02/2018 10:24:48 a.m. - INFO:    Connected
+07/02/2018 10:24:48 a.m. - INFO:    -
+07/02/2018 10:24:48 a.m. - INFO:    Sending user ...
+07/02/2018 10:24:48 a.m. - INFO:    S
+07/02/2018 10:24:48 a.m. - INFO:    M
+07/02/2018 10:24:48 a.m. - ERROR:   Trama (1)debe ser más grande que el tamaño mínimo = 65
+07/02/2018 10:24:48 a.m. - INFO:    DREnter Password:
+07/02/2018 10:24:48 a.m. - INFO:    Sending Password...
+07/02/2018 10:24:48 a.m. - INFO:    *
+07/02/2018 10:24:48 a.m. - INFO:    *
+07/02/2018 10:24:48 a.m. - INFO:    *
+07/02/2018 10:24:48 a.m. - INFO:    *
+07/02/2018 10:24:48 a.m. - INFO:    *
+07/02/2018 10:24:48 a.m. - INFO:    *
+07/02/2018 10:24:48 a.m. - INFO:    *
+07/02/2018 10:24:48 a.m. - INFO:    
+07/02/2018 10:29:38 a.m. - INFO:    Connected
+07/02/2018 10:29:38 a.m. - INFO:    -
+07/02/2018 10:29:38 a.m. - INFO:    Sending user ...
+07/02/2018 10:29:38 a.m. - INFO:    S
+07/02/2018 10:29:38 a.m. - INFO:    M
+07/02/2018 10:29:38 a.m. - INFO:    D
+07/02/2018 10:29:38 a.m. - ERROR:   Trama (1)debe ser más grande que el tamaño mínimo = 65
+07/02/2018 10:29:38 a.m. - INFO:    REnter Password:
+07/02/2018 10:29:38 a.m. - INFO:    Sending Password...
+07/02/2018 10:29:38 a.m. - INFO:    *
+07/02/2018 10:29:38 a.m. - INFO:    *
+07/02/2018 10:29:38 a.m. - INFO:    *
+07/02/2018 10:29:38 a.m. - INFO:    *
+07/02/2018 10:29:38 a.m. - INFO:    *
+07/02/2018 10:29:38 a.m. - INFO:    *
+07/02/2018 10:29:38 a.m. - INFO:    *
+07/02/2018 10:29:38 a.m. - INFO:    
+07/02/2018 10:33:38 a.m. - INFO:    Connected
+07/02/2018 10:33:38 a.m. - INFO:    Sending user ...
+07/02/2018 10:33:38 a.m. - INFO:    R
+07/02/2018 10:33:38 a.m. - INFO:    
+07/02/2018 10:33:38 a.m. - INFO:    Sending Password...
+07/02/2018 10:33:38 a.m. - INFO:    
+07/02/2018 10:33:38 a.m. - INFO:      Date     Time    Ext CO        Dial Number        Ring Duration  Acc code  CD 
+
+07/02/2018 10:33:38 a.m. - INFO:    --------------------------------------------------------------------------------
+
+07/02/2018 10:33:38 a.m. - INFO:    07/02/18 10:27AM   102 36 32134702                       00:01'21               
+
+07/02/2018 10:33:39 a.m. - ERROR:   Shiol Sql Server Saving: Login failed for user 'shiol'.
+07/02/2018 10:33:39 a.m. - INFO:    07/02/18 10:29AM   102 35 3213470114                     00:02'25               
+
+07/02/2018 10:33:39 a.m. - ERROR:   Shiol Sql Server Saving: Login failed for user 'shiol'.
+07/02/2018 10:33:55 a.m. - INFO:    07/02/18 10:31AM   510 15 <I>17131912               0'02 00:00'20            D0 
+
+07/02/2018 10:33:55 a.m. - ERROR:   Shiol Sql Server Saving: Login failed for user 'shiol'.
+07/02/2018 10:34:47 a.m. - INFO:    07/02/18 10:32AM   106 15 <I>17131912               0'00 00:00'52            TR 
+
+07/02/2018 10:34:47 a.m. - ERROR:   Shiol Sql Server Saving: Login failed for user 'shiol'.
+07/02/2018 10:35:13 a.m. - INFO:    07/02/18 10:32AM   114 16 <I>013816726              0'05 00:00'17               
+
+07/02/2018 10:35:13 a.m. - ERROR:   Shiol Sql Server Saving: Login failed for user 'shiol'.
+07/02/2018 10:44:28 a.m. - INFO:    Connected
+07/02/2018 10:44:28 a.m. - INFO:    Sending user and Password...
+07/02/2018 10:44:28 a.m. - INFO:    S
+07/02/2018 10:44:28 a.m. - INFO:    M
+07/02/2018 10:44:28 a.m. - INFO:    D
+07/02/2018 10:44:28 a.m. - INFO:    R
+07/02/2018 10:44:28 a.m. - INFO:    
+07/02/2018 10:44:28 a.m. - INFO:    Sending Password...
+07/02/2018 10:44:28 a.m. - INFO:    
+07/02/2018 10:44:28 a.m. - INFO:    Password Accepted.
+07/02/2018 10:44:28 a.m. - INFO:    07/02/18 10:35AM   510 17 <I>999938966              0'02 00:00'19            D0 
+
+07/02/2018 10:44:28 a.m. - INFO:    07/02/18 10:35AM   106 17 <I>999938966              0'00 00:00'31            TR 
+
+07/02/2018 10:44:28 a.m. - INFO:    07/02/18 10:36AM   502 17 <I>999938966              0'00 00:01'23            TR 
+
+07/02/2018 10:59:07 a.m. - INFO:    Connected
+07/02/2018 10:59:07 a.m. - INFO:    Sending user and Password...
+07/02/2018 10:59:07 a.m. - INFO:    S
+07/02/2018 10:59:07 a.m. - INFO:    M
+07/02/2018 10:59:07 a.m. - INFO:    Sending Password...
+07/02/2018 11:00:30 a.m. - ERROR:   Trama (65)debe ser más grande que el tamaño mínimo = 65
+07/02/2018 11:00:30 a.m. - INFO:    SentByHand: 07/02/18 10:27AM   102 36 32134702                       00:01'21
+07/02/2018 11:04:28 a.m. - ERROR:   Not Connected - Disconnected.
+07/02/2018 11:04:53 a.m. - INFO:    Connected
+07/02/2018 11:04:53 a.m. - INFO:    Sending user and Password...
+07/02/2018 11:04:53 a.m. - INFO:    S
+07/02/2018 11:04:53 a.m. - INFO:    M
+07/02/2018 11:04:53 a.m. - INFO:    D
+07/02/2018 11:04:53 a.m. - INFO:    R
+07/02/2018 11:04:53 a.m. - INFO:    
+07/02/2018 11:04:53 a.m. - INFO:    Sending Password...
+07/02/2018 11:04:53 a.m. - INFO:    
+07/02/2018 11:05:21 a.m. - INFO:    SentByHand: 07/02/18 10:27AM   102 36 32134702                       00:01'21
+07/02/2018 11:07:36 a.m. - INFO:    SentByHand: 07/02/18 10:29AM   102 35 3213470114                     00:02'25
+07/02/2018 11:07:49 a.m. - INFO:    Password Accepted.
+07/02/2018 11:07:49 a.m. - INFO:    07/02/18 11:05AM   510 18 <I>13607714               0'02 00:00'11            D0 
+
+07/02/2018 11:08:00 a.m. - INFO:    SentByHand: 07/02/18 10:31AM   510 15 <I>17131912               0'02 00:00'20            D0
+07/02/2018 11:08:37 a.m. - INFO:    SentByHand: 07/02/18 10:32AM   106 15 <I>17131912               0'00 00:00'52            TR
+07/02/2018 11:09:03 a.m. - INFO:    SentByHand: 07/02/18 10:32AM   114 16 <I>013816726              0'05 00:00'17
+07/02/2018 11:20:23 a.m. - ERROR:   Not Connected - Disconnected.
+07/02/2018 11:20:57 a.m. - INFO:    Connected
+07/02/2018 11:20:57 a.m. - INFO:    Sending user and Password...
+07/02/2018 11:20:57 a.m. - INFO:    S
+07/02/2018 11:20:57 a.m. - INFO:    M
+07/02/2018 11:20:57 a.m. - INFO:    D
+07/02/2018 11:20:57 a.m. - INFO:    R
+07/02/2018 11:20:57 a.m. - INFO:    
+07/02/2018 11:20:57 a.m. - INFO:    Sending Password...
+07/02/2018 11:20:57 a.m. - INFO:    
+07/02/2018 11:31:37 a.m. - ERROR:   Not Connected - Disconnected.
+07/02/2018 11:31:40 a.m. - INFO:    Connected
+07/02/2018 11:31:40 a.m. - INFO:    Sending user and Password...
+07/02/2018 11:31:40 a.m. - INFO:    S
+07/02/2018 11:31:40 a.m. - INFO:    M
+07/02/2018 11:31:40 a.m. - INFO:    DR
+07/02/2018 11:31:40 a.m. - ERROR:   Trama (2)debe ser más grande que el tamaño mínimo = 65
+07/02/2018 11:31:40 a.m. - INFO:    Sending Password...
+07/02/2018 11:32:49 a.m. - ERROR:   Not Connected - Disconnected.
+07/02/2018 11:33:10 a.m. - INFO:    Connected
+07/02/2018 11:33:10 a.m. - INFO:    Sending user and Password...
+07/02/2018 11:33:10 a.m. - INFO:    S
+07/02/2018 11:33:10 a.m. - INFO:    M
+07/02/2018 11:33:10 a.m. - INFO:    D
+07/02/2018 11:33:10 a.m. - INFO:    R
+07/02/2018 11:33:10 a.m. - INFO:    
+07/02/2018 11:33:10 a.m. - INFO:    Sending Password...
+07/02/2018 11:33:10 a.m. - INFO:    
+07/02/2018 11:33:47 a.m. - INFO:    Connected
+07/02/2018 11:33:47 a.m. - INFO:    Sending user and Password...
+07/02/2018 11:33:47 a.m. - INFO:    S
+07/02/2018 11:33:47 a.m. - INFO:    M
+07/02/2018 11:33:47 a.m. - INFO:    D
+07/02/2018 11:33:47 a.m. - INFO:    R
+07/02/2018 11:33:47 a.m. - INFO:    
+07/02/2018 11:33:47 a.m. - INFO:    Sending Password...
+07/02/2018 11:33:47 a.m. - INFO:    
+07/02/2018 11:34:30 a.m. - INFO:    Connected
+07/02/2018 11:34:30 a.m. - INFO:    Sending user and Password...
+07/02/2018 11:34:30 a.m. - INFO:    S
+07/02/2018 11:34:30 a.m. - INFO:    M
+07/02/2018 11:34:30 a.m. - INFO:    D
+07/02/2018 11:34:30 a.m. - INFO:    R
+07/02/2018 11:34:30 a.m. - INFO:    
+07/02/2018 11:34:30 a.m. - INFO:    Sending Password...
+07/02/2018 11:34:30 a.m. - INFO:    
+07/02/2018 11:36:58 a.m. - INFO:    Connected
+07/02/2018 11:36:58 a.m. - INFO:    Sending user and Password...
+07/02/2018 11:36:58 a.m. - INFO:    S
+07/02/2018 11:36:58 a.m. - INFO:    M
+07/02/2018 11:36:58 a.m. - INFO:    D
+07/02/2018 11:36:58 a.m. - INFO:    R
+07/02/2018 11:36:58 a.m. - INFO:    
+07/02/2018 11:36:58 a.m. - INFO:    Sending Password...
+07/02/2018 11:36:58 a.m. - INFO:    
+07/02/2018 11:51:34 a.m. - INFO:    SentByHand: 07/02/18 10:27AM   102 36 32134702                       00:01'21
+07/02/2018 11:53:06 a.m. - INFO:    Password Accepted.
+07/02/2018 11:53:06 a.m. - INFO:    07/02/18 11:50AM   510 19 <I>013211090              0'02 00:00'47            D0 
+
+07/02/2018 11:53:33 a.m. - INFO:    07/02/18 11:50AM   108 19 <I>013211090              0'00 00:00'27            TR 
+
+07/02/2018 11:55:45 a.m. - INFO:    07/02/18 11:52AM   102 19 <I>013211090              0'00 00:02'11            TR 
+
+07/02/2018 12:01:51 p.m. - ERROR:   Not Connected - Disconnected.
+07/02/2018 12:10:29 p.m. - INFO:    Connected
+07/02/2018 12:10:29 p.m. - INFO:    
+07/02/2018 12:10:29 p.m. - INFO:    Sending user and Password...
+07/02/2018 12:10:29 p.m. - INFO:    S
+07/02/2018 12:10:29 p.m. - INFO:    M
+07/02/2018 12:10:29 p.m. - INFO:    D
+07/02/2018 12:10:29 p.m. - INFO:    Sending Password...
+07/02/2018 12:10:29 p.m. - INFO:    
+07/02/2018 12:17:56 p.m. - INFO:    Password Accepted.
+07/02/2018 12:17:56 p.m. - INFO:    07/02/18 12:15PM   510 20 <I>944803745              0'02 00:00'27            D0 
+
+07/02/2018 12:18:34 p.m. - INFO:    07/02/18 12:15PM   112 20 <I>944803745              0'00 00:00'37            TR 
+
+07/02/2018 12:34:38 p.m. - INFO:    07/02/18 12:31PM   510 21 <I>0005491136319747       0'02 00:00'48            D0 
+
+07/02/2018 12:35:27 p.m. - INFO:    07/02/18 12:32PM   108 21 <I>0005491136319747       0'00 00:00'49            TR 
+
+07/02/2018 12:57:19 p.m. - INFO:    07/02/18 12:54PM   510 22 <I>0999979126             0'02 00:00'26            D0 
+
+07/02/2018 12:57:35 p.m. - INFO:    07/02/18 12:54PM   106 22 <I>0999979126             0'00 00:00'16            TR 
+
+07/02/2018 01:03:59 p.m. - INFO:    07/02/18 01:01PM   510 23 <I>999917787              0'02 00:00'17            D0 
+
+07/02/2018 01:05:14 p.m. - INFO:    07/02/18 01:02PM   106 23 <I>999917787              0'00 00:01'15            TR 
+
+07/02/2018 01:16:56 p.m. - ERROR:   Not Connected - Disconnected.
+07/02/2018 02:46:47 p.m. - INFO:    Connected
+07/02/2018 02:46:47 p.m. - INFO:    Sending user and Password...
+07/02/2018 02:46:47 p.m. - INFO:    S
+07/02/2018 02:46:47 p.m. - INFO:    M
+07/02/2018 02:46:47 p.m. - INFO:    D
+07/02/2018 02:46:47 p.m. - INFO:    R
+07/02/2018 02:46:47 p.m. - INFO:    
+07/02/2018 02:46:47 p.m. - INFO:    Sending Password...
+07/02/2018 02:46:47 p.m. - INFO:    
+07/02/2018 02:47:57 p.m. - INFO:    Password Accepted.
+07/02/2018 02:47:57 p.m. - INFO:    07/02/18 02:45PM   510 26 <I>0933224997             0'02 00:00'51            D0 
+
+07/02/2018 02:48:45 p.m. - INFO:    07/02/18 02:45PM   108 26 <I>0933224997             0'00 00:00'47            TR 
+
+07/02/2018 02:57:54 p.m. - INFO:    07/02/18 02:55PM   106 27 <I>012097300              0'03 00:02'36               
+
+07/02/2018 03:01:48 p.m. - INFO:    07/02/18 02:59PM   106 28 <I>012097300              0'15 00:00'00            NA 
+
+07/02/2018 03:02:41 p.m. - INFO:    07/02/18 02:59PM   112 28 <I>012097300              0'14 00:00'38               
+
+07/02/2018 03:30:52 p.m. - INFO:    07/02/18 03:28PM   106 29 <I>012097300              0'14 00:01'10               
+
+07/02/2018 03:51:08 p.m. - INFO:    07/02/18 03:48PM   510 30 <I>0933224997             0'02 00:00'48            D0 
+
+07/02/2018 03:52:59 p.m. - INFO:    07/02/18 03:50PM   108 30 <I>0933224997             0'00 00:01'52            TR 
+
+07/02/2018 04:07:12 p.m. - INFO:    07/02/18 04:04PM   112 36 6149800223258                  00:23'28               
+
+07/02/2018 04:15:14 p.m. - INFO:    07/02/18 04:12PM   112 36 39911110                       00:03'19               
+
+07/02/2018 04:16:50 p.m. - INFO:    07/02/18 04:14PM   106 31 <I>012097300              0'06 00:00'24               
+
+07/02/2018 04:21:59 p.m. - INFO:    07/02/18 04:19PM   112 31 <I>012097300              0'00 00:05'06            TR 
+
+07/02/2018 04:45:48 p.m. - INFO:    07/02/18 04:43PM   510 32 <I>016074698              0'02 00:00'48            D0 
+
+07/02/2018 04:46:55 p.m. - INFO:    07/02/18 04:44PM   108 32 <I>016074698              0'00 00:01'07            TR 
+
+07/02/2018 04:58:46 p.m. - INFO:    07/02/18 04:55PM   510 33 <I>938228643              0'02 00:00'22            D0 
+
+07/02/2018 04:59:42 p.m. - INFO:    07/02/18 04:56PM   106 33 <I>938228643              0'00 00:00'56            TR 
+
+07/02/2018 05:04:09 p.m. - INFO:    07/02/18 05:01PM   112 33 <I>938228643              0'00 00:04'26            TR 
+
+07/02/2018 05:12:34 p.m. - ERROR:   Not Connected - Exception! :No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión 192.168.1.50:2300
+07/02/2018 05:17:34 p.m. - WARNING: Trying to connect... (every 5 minutes)
+07/02/2018 05:17:35 p.m. - ERROR:   Not Connected - Exception! :No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión 192.168.1.50:2300
+07/02/2018 05:22:34 p.m. - WARNING: Trying to connect... (every 5 minutes)
+07/02/2018 05:22:35 p.m. - ERROR:   Not Connected - Exception! :No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión 192.168.1.50:2300
+07/02/2018 05:27:34 p.m. - WARNING: Trying to connect... (every 5 minutes)
+07/02/2018 05:27:35 p.m. - ERROR:   Not Connected - Exception! :No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión 192.168.1.50:2300
+07/02/2018 05:32:34 p.m. - WARNING: Trying to connect... (every 5 minutes)
+07/02/2018 05:32:34 p.m. - INFO:    Connected
+07/02/2018 05:32:34 p.m. - INFO:    
+07/02/2018 05:32:34 p.m. - INFO:    Sending user and Password...
+07/02/2018 05:32:34 p.m. - INFO:    S
+07/02/2018 05:32:34 p.m. - INFO:    M
+07/02/2018 05:32:34 p.m. - INFO:    D
+07/02/2018 05:32:34 p.m. - INFO:    R
+07/02/2018 05:32:34 p.m. - ERROR:   Trama (2)debe ser más grande que el tamaño mínimo = 65
+07/02/2018 05:32:34 p.m. - INFO:    Sending Password...
+07/02/2018 05:32:34 p.m. - INFO:    Password Accepted.
+07/02/2018 05:32:34 p.m. - INFO:    07/02/18 05:28PM   106 34 <I>0987951623             0'00 00:02'03            TR 
+
+07/02/2018 05:34:16 p.m. - INFO:    07/02/18 05:31PM   510 35 <I>999938966              0'02 00:00'06            D0 
+
+07/02/2018 05:47:12 p.m. - INFO:    07/02/18 05:44PM   510 36 <I>0987951623             0'02 00:00'22            D0 
+
+07/02/2018 05:48:49 p.m. - INFO:    07/02/18 05:46PM   106 36 <I>0987951623             0'00 00:01'35            TR 
+
+07/02/2018 07:20:54 p.m. - INFO:    07/02/18 07:18PM   510 07 <I>0961900219             0'02 00:00'11            D0 
+
+07/02/2018 07:21:18 p.m. - INFO:    07/02/18 07:18PM   106 07 <I>0961900219             0'00 00:00'25            TR 
+
+07/02/2018 07:21:50 p.m. - INFO:    07/02/18 07:19PM   114 07 <I>0961900219             0'00 00:00'32            TR 
+
+07/02/2018 09:06:08 p.m. - INFO:    07/02/18 09:03PM   108 36 4772020                        00:01'34               
+
+07/02/2018 09:10:55 p.m. - INFO:    07/02/18 09:08PM   510 08 <I>0989094481             0'02 00:00'18            D0 
+
+07/02/2018 09:11:54 p.m. - INFO:    07/02/18 09:09PM   106 08 <I>0989094481             0'00 00:00'58            TR 
+
+07/02/2018 09:11:55 p.m. - INFO:    07/02/18 09:09PM   510 09 <I>956743604              0'02 00:00'52            D0 
+
+07/02/2018 09:12:46 p.m. - INFO:    07/02/18 09:09PM   107 09 <I>956743604              0'00 00:00'50            TR 
+
+07/02/2018 09:22:12 p.m. - INFO:    07/02/18 09:19PM   510 10 <I>999907040              0'02 00:00'18            D0 
+
+07/02/2018 09:23:05 p.m. - INFO:    07/02/18 09:20PM   106 10 <I>999907040              0'00 00:00'49            TR 
+
+07/02/2018 09:49:02 p.m. - INFO:    07/02/18 09:46PM   510 11 <I>924803813              0'02 00:00'20            D0 
+
+07/02/2018 09:50:35 p.m. - INFO:    07/02/18 09:47PM   106 11 <I>924803813              0'00 00:01'32            TR 
+
+07/02/2018 11:41:27 p.m. - INFO:    07/02/18 11:38PM   510 12 <I>0998820959             0'02 00:00'24            D0 
+
+07/02/2018 11:45:01 p.m. - INFO:    07/02/18 11:42PM   112 12 <I>0998820959             0'00 00:03'33            TR 
+
+08/02/2018 02:37:28 a.m. - INFO:    08/02/18 02:34AM   510 13 <I>0993233007             0'02 00:00'23            D0 
+
+08/02/2018 02:38:17 a.m. - INFO:    08/02/18 02:35AM   106 13 <I>0993233007             0'00 00:00'44            TR 
+
+08/02/2018 08:38:35 a.m. - INFO:    08/02/18 08:35AM   106 14 <I>012097300              0'06 00:00'53               
+
+08/02/2018 08:38:49 a.m. - INFO:    08/02/18 08:36AM   510 15 <I>0987562522             0'02 00:00'25            D0 
+
+08/02/2018 08:44:26 a.m. - ERROR:   Not Connected - Disconnected.

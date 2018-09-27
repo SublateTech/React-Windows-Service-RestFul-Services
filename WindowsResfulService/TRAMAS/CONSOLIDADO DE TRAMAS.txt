@@ -1,0 +1,44 @@
+  Date     Time    Ext CO        Dial Number        Ring Duration  Acc code  CD 
+--------------------------------------------------------------------------------
+31/08/17 12:50PM   100 01 989303214                      00:00'06               
+TIM000 17:15   7/9/2017 CPU 0 
+N 069 00 ATTN01  A010002 09/07 17:16 00:00:22 9948298560
+ &       0000    0000                                      
+VAS008 ADMIN VSID 9 CUST -- TIME & DATE 17:30:20  7/09/2017  
+AUD370 VSID 9 CUST --
+N 074 00 2202    A010001 09/07 17:23 00:00:14 901444
+ &       0000    0000    
+S 076 00 ATTN01  A010003 09/07 17:32 00:00:26 9014443459                                    
+L 077 00 ATTN01  2202                            09/07 17:33 00:00:02 0000 0000 
+E 078 00 2202    A010003 09/07 17:34 00:00:54                                    
+L 079 00 4003    4006                            09/07 17:34 00:00:52 0000 0000 
+L 080 00 4005    4003                            09/07 17:34 00:00:06 0000 0000 
+
+DUCADO -NO
+N 111 00 DN0222  T004000             09/12 16:39 00:00:05 2420505
+
+
+inicia 31/ --> Trama 1 Jose antonio y Amara
+
+en esta central deben hacer llamadas salientes desde habitacion:
+
+N Llamada Saliente a celular o desde anexo a afuera
+VAS puedo obtener el año
+S Saliente que se envia a un anexo
+L Paso entre anexos 77 Central ATTN01 al Anexo 2202 desde linea A010003
+E Tiempo que hablo En Anexo 2202 desde linea con A010003
+
+N 001 00 DN4999 A000009 7.1.02.1 06/28 10:15 00:00:20 9828124
+
+N=Record Type (n=normal, s=Start, e=End)
+001=Record number
+00=Customer Number
+DN4999=Originating ID (in this case ext 4999)
+A000009=Terminating ID (in this case Answer supervised route 000 trunk member 009)
+7.1.02.1=TN of Set (only appears if mutliple apearance DN)
+06/28=date Stamp
+10:15=Time Stamp
+00:00:20=Call Duration
+9828124=Digits Dialed and or outpulsed
+
+As far as the TTY connection, use 7 bits, 1 stop bit, even or space parity. The Baud rate will depend on either the programming or dipswitch setting depending on the system and SDI Board type used.

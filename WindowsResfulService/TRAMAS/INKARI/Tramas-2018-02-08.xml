@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<!DOCTYPE logfile [ 
+<!ENTITY Events
+SYSTEM "Tramas-2018-02-08.txt">
+ ] >
+<logfile>
+&Events;
+</logfile>

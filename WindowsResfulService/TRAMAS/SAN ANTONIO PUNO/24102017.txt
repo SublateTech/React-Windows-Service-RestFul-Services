@@ -1,0 +1,83 @@
+  Date     Time    Ext CO        Dial Number        Ring Duration  Acc code  CD 
+--------------------------------------------------------------------------------
+24/10/17 11:19AM   202 30 958004140                      00:01'02               
+24/10/17 11:21AM   299 03 <I>958004140              0'23 00:01'09               
+  Date     Time    Ext CO        Dial Number        Ring Duration  Acc code  CD 
+--------------------------------------------------------------------------------
+24/10/17 11:27AM   308 30 958004140                      00:01'03               
+24/10/17 11:40AM   206 30 972250229                      00:01'13               
+24/10/17 11:44AM   312 30 958004140                      00:01'05               
+24/10/17 11:50AM   200 30 958004140                      00:01'02               
+
+ERROR CONSULTAR AL ADMINISTRADOR DE SISTEMAS!!!! 
+24/10/17 11:51AM   299 04 <I>958004140              0'15 00:00'48               
+  Date     Time    Ext CO        Dial Number        Ring Duration  Acc code  CD 
+--------------------------------------------------------------------------------
+
+ERROR CONSULTAR AL ADMINISTRADOR DE SISTEMAS!!!! 
+24/10/17 12:05PM   299 05 <I>958004140              0'15 00:00'36               
+  Date     Time    Ext CO        Dial Number        Ring Duration  Acc code  CD 
+--------------------------------------------------------------------------------
+
+ERROR CONSULTAR AL ADMINISTRADOR DE SISTEMAS!!!! 
+24/10/17 02:31PM   299 06 <I>953036403              0'15 00:00'49               
+24/10/17 02:41PM   203 30 980930834                      00:00'00               
+24/10/17 02:56PM   203 30 958004140                      00:00'41               
+24/10/17 03:06PM   206 30 981116755                      00:00'35               
+24/10/17 03:37PM   206 30 981116755                      00:00'13               
+
+ERROR CONSULTAR AL ADMINISTRADOR DE SISTEMAS!!!! 
+24/10/17 03:40PM   299 07 <I>971177007              0'16 00:00'00            NA 
+
+ERROR CONSULTAR AL ADMINISTRADOR DE SISTEMAS!!!! 
+24/10/17 03:42PM   206 07 <I>971177007              0'00 00:01'11               
+24/10/17 03:49PM   203 30 0842213903                     00:01'52               
+
+ERROR CONSULTAR AL ADMINISTRADOR DE SISTEMAS!!!! 
+24/10/17 03:59PM   299 08 <I>971177007              0'20 00:00'00            NA 
+
+ERROR CONSULTAR AL ADMINISTRADOR DE SISTEMAS!!!! 
+24/10/17 04:01PM   206 08 <I>971177007              0'00 00:01'51               
+
+ERROR CONSULTAR AL ADMINISTRADOR DE SISTEMAS!!!! 
+24/10/17 04:01PM   299 09 <I>971177007              0'16 00:00'00            NA 
+
+ERROR CONSULTAR AL ADMINISTRADOR DE SISTEMAS!!!! 
+24/10/17 04:02PM   206 09 <I>971177007              0'00 00:00'35               
+
+ERROR CONSULTAR AL ADMINISTRADOR DE SISTEMAS!!!! 
+24/10/17 04:34PM   299 10 <I>51368719               0'15 00:00'00            NA 
+
+ERROR CONSULTAR AL ADMINISTRADOR DE SISTEMAS!!!! 
+24/10/17 04:35PM   206 10 <I>51368719               0'00 00:00'54               
+
+ERROR CONSULTAR AL ADMINISTRADOR DE SISTEMAS!!!! 
+24/10/17 04:35PM   415 10 <I>51368719               0'00 00:00'02            TR 
+
+ERROR CONSULTAR AL ADMINISTRADOR DE SISTEMAS!!!! 
+24/10/17 04:36PM   299 11 <I>51368719               0'19 00:00'00            NA 
+
+ERROR CONSULTAR AL ADMINISTRADOR DE SISTEMAS!!!! 
+24/10/17 04:38PM   206 11 <I>51368719               0'00 00:02'21               
+
+ERROR CONSULTAR AL ADMINISTRADOR DE SISTEMAS!!!! 
+24/10/17 04:40PM   415 11 <I>51368719               0'00 00:02'00            TR 
+24/10/17 04:45PM   202 30 0800719602                     00:00'46               
+
+ERROR CONSULTAR AL ADMINISTRADOR DE SISTEMAS!!!! 
+24/10/17 04:51PM   299 12 <I>953036403              0'20 00:00'00            NA 
+
+ERROR CONSULTAR AL ADMINISTRADOR DE SISTEMAS!!!! 
+24/10/17 04:52PM   200 12 <I>953036403              0'00 00:01'19               
+
+ERROR CONSULTAR AL ADMINISTRADOR DE SISTEMAS!!!! 
+24/10/17 04:52PM   299 13 <I>953036403              0'07 00:00'00            NA 
+
+ERROR CONSULTAR AL ADMINISTRADOR DE SISTEMAS!!!! 
+24/10/17 04:53PM   200 13 <I>953036403              0'00 00:00'49               
+
+ERROR CONSULTAR AL ADMINISTRADOR DE SISTEMAS!!!! 
+24/10/17 04:59PM   299 14 <I>941104414              0'08 00:00'00            NA 
+
+ERROR CONSULTAR AL ADMINISTRADOR DE SISTEMAS!!!! 
+24/10/17 05:08PM   206 14 <I>941104414              0'00 00:08'13               

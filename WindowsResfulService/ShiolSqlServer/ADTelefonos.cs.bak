@@ -1,0 +1,59 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.IO.Ports;
+using System.Data;
+using System.Data.SqlClient;
+using Microsoft.ApplicationBlocks.Data;
+
+namespace AD
+{
+    public class ADTelefonos
+    {
+         public ADTelefonos()
+        {
+ 
+        }
+
+         public DataTable telefonos(String discado)
+         {
+
+             String query = "Select PrecioVenta, codigosTelefonicos, ProductoId, preciocosto, MonedaID, TiempoSegundos, Collect, FamiliaID, AfectoIGv, afectoservicio From Productos Where ISNULL(CodigosTelefonicos,'') <> '' and CodigosTelefonicos like '" + discado + "%'";
+
+             try
+             {
+                 return SqlHelper.ExecuteDataset(Conexion.connectionString(), CommandType.Text, query).Tables[0];
+             }
+             catch
+             {
+                 return new DataTable();
+             }
+
+ 
+         }
+
+
+         public Int32 usuarioID(String codigoCentralTelefonica)
+         {
+             Int32 codigo = 0;
+             
+             try
+             {
+
+                 string query = "SELECT UsuarioID FROM Usuarios WHERE RTRIM(CodigoCentralTelefonica) = RTRIM(" + codigoCentralTelefonica + ")";
+
+                 codigo = Convert.ToInt32(SqlHelper.ExecuteScalar(Conexion.connectionString(), CommandType.Text, query));
+                 
+                 return codigo;
+
+             }
+
+             catch
+             { 
+                 return 0; 
+             }
+
+         }
+    }
+}
